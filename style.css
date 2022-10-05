@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(/smit.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-image: ; */
+}
+
+.container {
+    /* border: 1 rem;
+    border-color: white; */
+    /* background-color: aqua; */
+    margin: 100px;
+    padding: 100px;
+    align-items: center;
+}
+
+.btn {
+    /* border-radius: 10%; */
+    border: white;
+}
