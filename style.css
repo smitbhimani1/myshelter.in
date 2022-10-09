@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("./smit.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    /* background-image: ; */
+}
+
+a:active {
+    color: white;
+}
+
+.container {
+    /* border: 1 rem;
+    border-color: white; */
+    /* background-color: aqua; */
+    /* margin: 100px;
+    padding: 150px; */
+    /* display: flex;
+    align-items: center; */
+    text-align: center;
+    padding: 100px;
+}
+
+.btn {
+    /* border-radius: 10%; */
+    border-style: outset;
+    border: white;
+}
+
+ul {
+    /* display: inline; */
+    top: 0;
+    flex: left;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    /* padding-inline-start: 40px; */
+}
+
+li {
+    display: inline;
+    padding-right: 20px;
+}
